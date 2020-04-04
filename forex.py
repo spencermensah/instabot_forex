@@ -5,7 +5,7 @@
 
 from InstagramAPI import InstagramAPI
 
-api = InstagramAPI("sudoperspective", "redaroly")
+api = InstagramAPI("", "")
 
 def sendDM(api,user_id,message):
     # api.searchUsername(username)
